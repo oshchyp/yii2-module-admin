@@ -11,7 +11,7 @@
 
   "autoload": {
     "psr-4": {
-      "oshchyp\\yii2\\modules\\admin": "oshchyp/yii2/modules/admin"
+      "oshchyp\\yii2\\modules\\admin\\": "oshchyp/yii2/modules/admin"
     }
   },
   "version": "dev-master"
